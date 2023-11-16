@@ -25,10 +25,10 @@ def get_db():
 # import mysql.connector
 # import time
 # connection_info = {
-#     "host": "localhost",
-#     "user": "root",
-#     "password": "Neden1234$",
-#     "database": "fast_api"
+#     "host": "localh
+#     "user": "r
+#     "password": "Ne
+#     "database": "fast
 # }
 
 
